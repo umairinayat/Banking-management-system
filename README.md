@@ -2,7 +2,7 @@
 This is a Banking Management System built using the concepts of Object Oriented Programming In C++. 
 
 
-#Introduction
+# Introduction
 
 The “Bank Account Management System” project is a model Internet Banking Site. This site enables the customers to perform the basic banking transactions by sitting at their office or at homes through PC or laptop. The system provides the access to the customer to create an account, deposit/withdraw the cash from his account, also to view reports of all accounts present. The customers can access the banks website for viewing their Account details and perform the transactions on account as per their requirements. With Internet Banking, the brick and mortar structure of the traditional banking gets converted into a click and portal model, thereby giving a concept of virtual banking a real shape. Thus, today's banking is no longer confined to branches. E-banking facilitates banking transactions by customers round the clock globally. 
 
@@ -17,7 +17,7 @@ Now a day’s, managing a bank is tedious job up to certain limit. So software t
 All transactions are carried out online by transferring from accounts in the same Bank or international bank. The software is meant to overcome the drawbacks of the manual system. 
 
 
-#Abstract
+# Abstract
 
 The Bank Account Management System is an application for maintaining a person's account in a bank. In this project I tried to show the working of a banking account system and cover the basic functionality of a Bank Account Management System. To develop a project for solving financial applications of a customer in banking environment in order to nurture the needs of an end banking user by providing various ways to perform banking tasks. Also, to enable the user’s work space to have additional functionalities which are not provided under a conventional banking project. 
 
@@ -27,13 +27,13 @@ The impact of a poorly expressed requirement can bring a business out of complia
 
 
 
-#AIM of this project
+# AIM of this project
 
 The main aim of designing and developing this Internet banking System C++ primarily based 
 Engineering project is to provide secure and efficient net banking facilities to the banking customers over the internet. Apart for new features Apache Server Pages, MYSQL database used to develop this bank application where all banking customers can login through the secured web page by their account login id and password. Users will have all options and features in that application like get money from western union, money transfer to others, and send cash or money to inter banking as well as other banking customers by simply adding them as payees.
 
 
-#Main Purpose
+# Main Purpose
 The Traditional way of maintaining details of a user in a bank was to enter the details and record them. Every time the user needs to perform some transactions he has to go to bank and perform the necessary actions, which may not be so feasible all the time. It may be a hard-hitting task for the users and the bankers too. The project gives real life understanding of Online Banking System and activities performed by various roles in the supply chain. Here, we provide automation for banking system through Internet. Online Banking System project captures activities performed by different roles in real life banking which provides enhanced techniques for maintaining the required information up-to-date, which results in efficiency. The project gives real life understanding of Online Banking System and activities performed by various roles in the supply chain
 
 
@@ -52,7 +52,7 @@ Hereby, our main objective is the customer’s satisfaction considering today’
 
 
 
-#Methods
+# Methods
 
 • We need to be able to generate an account number 
 • Account types: Savings or Current Account 
@@ -123,7 +123,7 @@ For those experienced spenders, this option is far more appealing than the sudde
 
 It's also helpful to watch how much interest you're gathering on investments and savings or what service charges you have incurred. 
 
-Most available benefits 
+# Most available benefits 
 
 1. Online banking with key bank is fast, secure, convenient and free. 
 2. Quick, simple, authenticated access to accounts via the web application. 
@@ -133,7 +133,7 @@ Most available benefits
 6. Minimize Storage Space. 
 
 
-#Future Look
+# Future Look
 
 The “Banking Online System is a big and ambitious project. I am thankful for being provided this great opportunity to work on it. As already mentioned, this project has gone through extensive research work. On the basis of the research work, we have successfully designed and implemented banking online System. To know what the future of online banking looks like, it’s probably worth looking at the present – online banking isn’t new. When you think of online banking, you probably think about a computer (either a desktop or laptop), a three or four step security process and then an interface that lets you view the balance of your various bank accounts and credit cards, whilst permitting you to transfer money and pay bills. And you’re not wrong either. The most valuable future looks are following below: 
  
