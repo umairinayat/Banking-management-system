@@ -1,0 +1,9 @@
+Muhammad             Khan                muhammad_khan       abcxyz123           2468                4425.5              Silver              muhammad.khan@gmail.com       1234567890                    
+Aisha                Ahmed               aisha_ahmed         qwerty456           1357                8000.75             Gold                aisha_ahmed@hotmail.com       2147483647                    
+Ahmed                Siddiqui            ahmed_siddiqui      letmein789          5289                5500.8              Gold                ahmed_siddiqui@gmail.com      2147483647                    
+Yasmin               Khan                yasmin_khan         password123         3614                7000.25             Diamond             yasmin_khan@hotmail.com       2147483647                    
+Nur                  Fatimah             nur_fatimah         asdf1234            7925                3000.35             Silver              nur_fatimah@gmail.com         2147483647                    
+Safiya               Ahmed               safiya_ahmed        qazwsx123           6428                7500.6              Silver              safiya_ahmed@outlook.com      1234567890                    
+Sumaya               Khan                sumaya_khan         letmein7890         3147                3500.8              Diamond             sumaya_khan@gmail.com         2147483647                    
+Samreena             Yousaf              sam123              skdk23              3455                93940               Gold                samreena.yousaf@outlook.com   34988882                      
+Umair                inayat              umair_iny           umair123            9800                3940                Gold                umair@outlook.com             99888999                      
