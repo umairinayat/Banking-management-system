@@ -37,7 +37,7 @@ Engineering project is to provide secure and efficient net banking facilities to
 The Traditional way of maintaining details of a user in a bank was to enter the details and record them. Every time the user needs to perform some transactions he has to go to bank and perform the necessary actions, which may not be so feasible all the time. It may be a hard-hitting task for the users and the bankers too. The project gives real life understanding of Online Banking System and activities performed by various roles in the supply chain. Here, we provide automation for banking system through Internet. Online Banking System project captures activities performed by different roles in real life banking which provides enhanced techniques for maintaining the required information up-to-date, which results in efficiency. The project gives real life understanding of Online Banking System and activities performed by various roles in the supply chain
 
 
-#Main Goal 
+# Main Goal 
 
 1. Motto- Our motto is to develop a software program for managing the entire bank process related to Administration accounts customer accounts and to keep every track about their property and their various transaction processes efficiently. 
 Hereby, our main objective is the customer’s satisfaction considering today’s faster in the world. 
@@ -61,11 +61,11 @@ Hereby, our main objective is the customer’s satisfaction considering today’
 • Withdraw/Deposit 
 
 
-**Administrative Modules**
+## Administrative Modules
 
 Here in my project there are two types of modules. This module is the main module which performs all the main operations in the system. The major operations in the system are: 
 
-**Admin Module** 
+## Admin Module
 
 Admin can access this project there is an authorization process. If you login as an Admin then you will be redirected to the Admin Home Page and if you are a simple user you will be redirected to your Account Home Page. This performs the following functions: Create 
 Individual Accounts, manage existing accounts, View all transactions, Balance enquiry, 
@@ -78,7 +78,7 @@ Delete/close account etc.
 5- User details list 
 6-Maintain
 
-**User Module**
+## User Module
 
 A simple user can access their account and can deposit/withdraw money from their account. 
 User can also transfer money from their account to any other bank account. User can see their transaction report and balance enquiry too. 
@@ -90,7 +90,7 @@ User can also transfer money from their account to any other bank account. User 
 5- User account details 
 6- Change Password and Pin
 
-**Banks terms:** 
+# Banks terms:
 
 1. All requests received from customers are logged for backend fulfillment and are effective from the time they are recorded at the branch. 
 2. Rules and regulations applicable to normal banking transactions in Pakistan will be applicable mutatis mutandis for the transactions executed through this site. 
@@ -100,7 +100,7 @@ User can also transfer money from their account to any other bank account. User 
 Bank. The changes will be notified to the customers through a notification on the Site. 
 
 
-**Customer’s obligations** 
+## Customer’s obligations
 
 1. The customer has an obligation to maintain secrecy in regard to Username & 
 Password registered with the Bank. The bank presupposes that login using valid 
@@ -109,7 +109,7 @@ Username and Password is a valid session initiated by none other than the custom
 3. The customer will not attempt or permit others to attempt accessing the Bank through any unlawful means. 
 
 
-**Benefits of online banking**
+## Benefits of online banking
 
 Many of us lead busy lives. Some of us are up before the crack of dawn, getting ourselves prepared so we can in turn get our families ready for the day. We rush to work, rush to get the kids to school, and at the end of the day we rush home only to brace ourselves for the next day. After a hectic day, the last thing you want to do is spend time waiting in line at the bank, or even the post office. That's where Online Banking comes in. Many of the benefits of doing our banking online are obvious: 
  
