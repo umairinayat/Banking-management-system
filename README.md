@@ -140,3 +140,9 @@ The “Banking Online System is a big and ambitious project. I am thankful for b
 1- More branches of the bank, maybe it will be international, that means more ATM machines outside. 
 2- Customer issues development based on their needs, so the help desk will be aware of their needs and easy to use. 
 3- Developing a mobile App for banking system that help users to do the obtained his operations without go to the bank only he needs to sign in using his A/C NO. And password and then use your own PIN. Finally the system will update automatically. 
+
+# Contributing
+Contributions to this project are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+# License
+This project is licensed under the [MIT License.](https://github.com/umairinayat/Banking-management-system/blob/main/LICENSE.txt)
