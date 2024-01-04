@@ -2865,7 +2865,6 @@ void aboutus()
 
 	cout << "\t\t\t\t\t\t\t[1] .Umair Inayat\n" << endl;
 
-	cout << "\t\t\t\t\t\t\t[2] .Samreena Yousaf\n" << endl;
 }
 int CountLinesInFile(const string& filename)
 {
