@@ -9,7 +9,7 @@
 using namespace std;
 
 ifstream Inp;
-ofstream Out; // Gobal
+ofstream Out; // Global
 string getCurrentTime() {
 	time_t now = time(0);
 	char currentDate[11];
@@ -294,7 +294,7 @@ public:
 		Inp.open(filename);
 		if (!Inp)
 		{
-			cout << "Failed to open Saving acount data file." << endl;
+			cout << "Failed to open Saving Account data file." << endl;
 			return;
 		}
 		int index = 0;
@@ -885,7 +885,7 @@ public:
 						checkaccount[Index]->balance -= amount;
 						checkaccount[Index]->balance -= feecharge;
 						cout << "\t\t\t\t\tFee charges $" << feecharge << " dedicated from your Balance\n";
-						cout << "\t\t\t\Withdrawal of $" << amount << " from account " << checkaccount[Index]->accountNumber << " successful at " << getCurrentTime() << endl;
+						cout << "\t\t\t\tWithdrawal of $" << amount << " from account " << checkaccount[Index]->accountNumber << " successful at " << getCurrentTime() << endl;
 						CheckingAccount::saveAccountData();
 					}
 					else
@@ -1013,7 +1013,7 @@ public:
 		bool added;
 		do
 		{
-			cout << setw(30) << "\t\tEnter User  First name: ";
+			cout << setw(30) << "\t\tEnter User First name: ";
 			string firstname;
 			cin >> firstname;
 
@@ -2784,7 +2784,7 @@ public:
 
 	{
 		int serachaccount;
-		cout << "\t\t\tEnter the Investment Number to serach: ";
+		cout << "\t\t\tEnter the Investment Number to search: ";
 		cin >> serachaccount;
 		bool found1 = false;
 
@@ -2859,9 +2859,9 @@ void aboutus()
 	cout << "\t\t\t\t\t\t\tAbout US " << endl;
 	cout << setw(100) << "==================================================" << endl << endl;
 	cout << "\t\t\t\t\tIt is a Simple Bank Management System Project for our ";
-	cout << " 2nd Semester based on OOP C++ programming language.";
+	cout << "2nd Semester Project based on OOP C++ programming language.";
 
-	cout << "\n\n\t\t\t\t\t\t\tMembers of Team Warriors: \n\n" << endl;
+	cout << "\n\n\t\t\t\t\t\t\tMembers of Team Warriors:\n" << endl;
 
 	cout << "\t\t\t\t\t\t\t[1] .Umair Inayat\n" << endl;
 
@@ -2911,7 +2911,7 @@ int main()
 	cout << setw(60) << " \t\t                  [1] . Administrator\n";
 	cout << setw(50) << "\t\t  [2] . User" << endl;
 	cout << endl;
-	cout << "\t\t\t\t\t\t\t\tEnter your Choice...!";
+	cout << "\t\t\t\t\t\t\t\tEnter your Choice:";
 	cin >> choice;
 	char x;
 	switch (choice)
@@ -2935,8 +2935,8 @@ int main()
 			cout << "\t\t\t\t\t\t[4] . Personal Loan: \n";
 			cout << "\t\t\t\t\t\t[5] . Relative Investment: \n";
 			cout << "\t\t\t\t\t\t[6] . About US \n";
-			cout << "\t\t\t\t\t\t[7] . Log Out !!! \n";
-			cout << "\n\t\t\t\t\t\tSelect one option...!";
+			cout << "\t\t\t\t\t\t[7] . Log Out.\n";
+			cout << "\n\t\t\t\t\t\tSelect one option...";
 			int adchoice;
 			cin >> adchoice;
 			switch (adchoice)
@@ -3255,7 +3255,7 @@ int main()
 			system("cls");
 			cout << "\n\n";
 			cout << "\t\t\t\t\t\t==================================================" << endl;
-			cout << "\t\t\t\t\t\t\t\tUser Potral" << endl;
+			cout << "\t\t\t\t\t\t\t\tUser Portal" << endl;
 			cout << "\t\t\t\t\t\t==================================================" << endl;
 
 			cout << "\t\t\t\t\t\t[1] . Saving account: \n";
